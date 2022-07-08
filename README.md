@@ -54,6 +54,14 @@ Comprobar el Teorema de Thévenin, mediante el análisis del circuito eléctrico
 ***
 
 **8. Conclusiones**
+- A partir de lo investigado anteriormente, se puede concluir que el Teorema de Thévenin, se utiliza cuando queremos simplificar un circuito, expresándolo con una fuente de voltaje equivalente y una resistencia equivalente. Los valores que se obtienen dependen del circuito original. Para encontrar la resistencia equivalente no se deben poner la resistencia de carga, esta se la reemplaza por un circuito abierto y las fuentes de voltaje se las reemplaza por sus resistencias internas, mientras que en el voltaje equivalente se halla el voltaje del circuito abierto presente entre dos terminales de salida.
+
+- Como se ha podido observar se realizó el cálculo de las medidas de voltaje y corriente en R5, se construyó el circuito indicado y con la ayuda de un multímetro se tomó las medidas experimentales cuando se desconecta R5, se anula el efecto de las fuentes de alimentacion y el circuito implementado ya el voltaje y corriente equivalente. Después en Tinkercad se hizo una simulación del circuito obteniendo las medidas de voltajes y corrientes simuladas, finalmente se calculó el voltaje y la corriente utilizando el Teorema de Thévenin.
+
+- En la justificación del video se pude observar la construcción del circuito y su funcionamiento, se puede ver como se toman las medidas indicadas, también la construcción del circuito en el simulador de Tinkercad y su toma de medidas mediante simulación, se explica el análisis que se realizó para el Teorema de Thévenin.
+
+- Analizando el porcentaje de error, se concluye que el voltaje y corriente está correctamente calculado y la variación mínima del error entre los datos calculados y los simulados es por los decimales que se toman en cuenta en los cálculos realizados, mientras que el porcentaje de error entre los valores calculados y experimentales es mayor porque se conoce que los circuitos experimentales se ven afectados por distintos factores.
+
 
 ***
 
