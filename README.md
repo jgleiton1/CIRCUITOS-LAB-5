@@ -171,6 +171,22 @@ Tabla 5.2. Comprobación del Teorema de Thévenin.
 
 ![image](https://user-images.githubusercontent.com/94011974/170057592-12d7c136-22cd-4cac-9532-0e92eb81f1b9.png)
 
+VTH(V)
+
+![image](https://user-images.githubusercontent.com/105259459/178031751-f2dd5031-934e-42cc-97db-309976e46ba8.png)
+
+RTH (Ω)
+
+![image](https://user-images.githubusercontent.com/105259459/178031885-47b0b605-cb96-4fae-b229-f8e2994cfb92.png)
+
+Voltaje circuito original y thévenin 
+
+![image](https://user-images.githubusercontent.com/105259459/178031947-1dbbcc7b-62cf-4e6b-963d-d37cdeeffbfd.png)
+
+Corriente circuito original y thévenin
+
+![image](https://user-images.githubusercontent.com/105259459/178032038-3fe0e31b-ff80-40b8-a474-4f1eaaa099f7.png)
+
 ***
 
 **7. Vídeo**
