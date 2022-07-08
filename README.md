@@ -175,6 +175,8 @@ Tabla 5.2. Comprobación del Teorema de Thévenin.
 
 **7. Vídeo**
 
+https://www.youtube.com/watch?v=SSI4XKC9a6k
+
 ***
 
 **8. Conclusiones**
