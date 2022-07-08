@@ -29,6 +29,24 @@ Comprobar el Teorema de Thévenin, mediante el análisis del circuito eléctrico
 
 **2. Marco Teórico**
 
+![image](https://user-images.githubusercontent.com/105686218/177908897-e1af3d07-b916-4b40-8276-b1a226fdfa78.png)
+
+![image](https://user-images.githubusercontent.com/105686218/177908921-65a9ecb0-deba-48d4-a5f5-3daaa297b6ee.png)
+
+![image](https://user-images.githubusercontent.com/105686218/177908945-cfa209b4-4729-453b-a927-d51dd06854e8.png)
+
+![image](https://user-images.githubusercontent.com/105686218/177909010-df0eb4ad-789a-4643-91ff-aa0638b379ce.png)
+
+![image](https://user-images.githubusercontent.com/105686218/177909297-0b6877b4-9b65-4b99-b15f-ff0dd320a92f.png)
+
+![image](https://user-images.githubusercontent.com/105686218/177909317-02ca0ae4-b064-44ab-9524-80b20289356e.png)
+
+![image](https://user-images.githubusercontent.com/105686218/177909343-a806d81d-f651-4f77-9568-69e9f8557c07.png)
+
+![image](https://user-images.githubusercontent.com/105686218/177909375-9d80c0a9-c55c-43dc-8bc5-797c2a7757d4.png)
+
+
+
 ***
 
 **3. Requerimientos previos**
