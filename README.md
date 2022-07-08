@@ -155,7 +155,7 @@ IR5 = 3.35/1 = 3.35 mA
 
 5.5.5. Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
-![image](https://user-images.githubusercontent.com/94011974/178002022-7874e569-2453-4585-a38c-c243b558ac76.png)
+![image](https://user-images.githubusercontent.com/94011974/178044428-f3b1cb5d-7571-444f-b24b-b48ef05e6fb8.png)
 
 Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
