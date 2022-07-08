@@ -14,10 +14,17 @@
 
    **1.1. Objetivo General** 
 
+Comprobar el Teorema de Thévenin, mediante el análisis del circuito eléctrico, simulaciones y las prácticas de laboratorio experimentales, para afianzar los conocimientos adquiridos sobre el tema propuesto.
 ***
 
   **1.2. Objetivos Específicos:**
+- Construir mapas conceptuales que resuman el Teorema de Thévenin, a partir de una búsqueda bibliográfica.
 
+- Calcular el valor de voltaje y corriente que pasa por una resistencia, mediante la medición experimental del circuito, medición en el simulador de Tinkercad y analíticamente utilizando Thévenin.
+
+- Justificar el desarrollo del laboratorio, mediante la presentación de un video, que explique la resolución del Teorema de Thévenin, la construcción y funcionamiento del circuito.
+
+- Comparar los resultados que se obtienen analíticamente, simuladamente y experimentalmente.
 ***
 
 **2. Marco Teórico**
