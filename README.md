@@ -147,7 +147,7 @@ IR5 = 3.35/1 = 3.35 mA
 
 5.5.3. Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
 
-![image](https://user-images.githubusercontent.com/94011974/178001015-455b615d-8553-45d5-b0c5-7130b219bb26.png)
+![image](https://user-images.githubusercontent.com/94011974/178047361-bf1001fe-a761-49b1-8484-d9f23905aaeb.png)
 
 5.5.4. Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
